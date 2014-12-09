@@ -1,0 +1,47 @@
+APEX 
+====
+:author: Camille Alram, Yassine Chahid, Remi Hanne , Edwin Martin
+:description: ptut
+:revdate: 2014-12-09
+:revnumber: 0.1
+///////////////////////
+	Themes that you can choose includes:
+	web-2.0, swiss, neon beamer, ptut
+///////////////////////
+:deckjs_theme: ptut
+///////////////////////
+	Transitions that you can choose includes:
+	fade, horizontal-slide, vertical-slide
+///////////////////////
+:deckjs_transition: horizontal-slide
+///////////////////////
+	AsciiDoc use `source-highlight` as default highlighter.
+
+	Styles available for pygment highlighter:
+	monokai, manni, perldoc, borland, colorful, default, murphy, vs, trac,
+	tango, fruity, autumn, bw, emacs, vim, pastie, friendly, native,
+
+	Uncomment following two lines if you want to highlight your code
+	with `Pygments`.
+///////////////////////
+//:pygments:
+//:pygments_style: vim
+///////////////////////
+
+///////////////////////
+//:count_nested:
+
+== Somaire
+
+[incremental="true"]
+ * Installation
+ * Créer une application
+ * fonctionnalitées
+
+== Installation
+image::images/web.png[title="image web"]
+image::images/compu.png[title="image ordi"]
+  
+== Créer une application
+== fonctionnalitées
+ 
