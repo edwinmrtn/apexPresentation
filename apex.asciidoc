@@ -39,8 +39,8 @@ APEX
  * fonctionnalitées
 
 == Installation
-image::ptutimages/web.png[title="image web"]
-image::ptutimages/compu.png[title="image ordi"]
+image::images/web.png[title="image web"]
+image::images/compu.png[title="image ordi"]
   
 == Créer une application
 == fonctionnalitées
