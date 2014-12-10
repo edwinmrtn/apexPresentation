@@ -43,25 +43,25 @@ image::images/web.png[title="image web"]
 image::images/compu.png[title="image ordi"]
 
 == Installation (2)
-image::images/installation.png[title="image installation panel"]
+image::images/installation.PNG[title="image installation panel"]
   
 == Créer une application (1)
-image:images/connexion.png[title="image connexion apex"]
+image:images/connexion.PNG[title="image connexion apex"]
 
 == Créer une application (2)
-image:images/acceuil.png[title="image acceuil apex"]
+image:images/acceuil.PNG[title="image acceuil apex"]
 
 == Créer une application (3)
-image::images/applicationBuilder.png[title="image application Builder"]
+image::images/applicationBuilder.PNG[title="image application Builder"]
 
 == Créer une application (4)
-image::images/uneApplicationAccueil.png[title="image acceuil de l'application"]
+image::images/uneApplicationAccueil.PNG[title="image acceuil de l'application"]
 
 == Créer une application (5)
-image::images/uneApplicationRun.png[title="image web"]
+image::images/uneApplicationRun.PNG[title="image web"]
 
 == Créer une application (6)
-image::images/uneApplicationEdit.png[title="image ordi"]
+image::images/uneApplicationEdit.PNG[title="image ordi"]
 
 == Fonctionnalitées
  
